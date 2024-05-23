@@ -29,3 +29,5 @@ This documentation is in progress.
 			["CanAddCredits"] = false,
 		},
 ```
+---
+Once you have done this, put it anywhere you would like inside of your game.
